@@ -94,4 +94,4 @@ def start(A,C,b):
     print(Back.GREEN+"Z optima {}".format(optimal_Z))
 
 
-start(problem2["A"],problem2["C"],problem2["b"])
+start(problem1["A"],problem1["C"],problem1["b"])
